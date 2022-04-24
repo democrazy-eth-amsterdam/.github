@@ -6,4 +6,8 @@
 
 [Backend](https://github.com/democrazy-eth-amsterdam/backend)
 
+[Mina Implementation](https://github.com/democrazy-eth-amsterdam/mina-zk-idea)
+
+[Merely Cryptographic](https://github.com/democrazy-eth-amsterdam/merely-cryptographic)
+
 [Democrazy DAO](https://github.com/democrazy-eth-amsterdam/democrazy_dao)
